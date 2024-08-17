@@ -1,8 +1,8 @@
+http://example.com/honors/index.html
+http://example.com/patent/index.html
 http://example.com/journal_papers/index.html
 http://example.com/research_grants/index.html
-http://example.com/honors/index.html
 http://example.com/academic_service/index.html
 http://example.com/students/index.html
-http://example.com/patent/index.html
 http://example.com/2024/08/16/%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%AE%80%E4%BB%8B/
 http://example.com/
