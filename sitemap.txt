@@ -1,3 +1,6 @@
+http://example.com/academic_service/index.md-JZ.html
+http://example.com/journal_papers/index.html
+http://example.com/students/index.html
 http://example.com/2024/05/29/20240529/
 http://example.com/2024/06/28/20240628/
 http://example.com/2024/06/29/20240629/
@@ -16,8 +19,6 @@ http://example.com/2024/04/21/20240421/
 http://example.com/2024/05/24/20240524/
 http://example.com/2024/07/23/20240723/
 http://example.com/2024/08/08/20240808/
-http://example.com/journal_papers/index.html
-http://example.com/students/index.html
 http://example.com/academic_service/index.html
 http://example.com/honors/index.html
 http://example.com/patent/index.html
