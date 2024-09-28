@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-15T07:58:10.141Z</updated>
+  <updated>2024-09-28T11:32:38.502Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>孙敬张携科研团队@海南省医学会核医学分会2024学术年会</title>
+    <link href="http://example.com/2024/09/21/20240921/"/>
+    <id>http://example.com/2024/09/21/20240921/</id>
+    <published>2024-09-20T16:00:00.000Z</published>
+    <updated>2024-09-28T11:32:38.502Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/body_img/20240921_1.jpg" alt="海南医学会"></p><p><img src="/img/body_img/20240921_2.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20240921_1.jpg&quot; alt=&quot;海南医学会&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/body_img/20240921_2.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Jingzhang Sun received 2024 Best Translational Paper Award of the Journal of Nuclear Cardiology</title>
     <link href="http://example.com/2024/08/08/20240808/"/>
     <id>http://example.com/2024/08/08/20240808/</id>
     <published>2024-08-07T16:00:00.000Z</published>
-    <updated>2024-09-15T07:58:10.141Z</updated>
+    <updated>2024-09-28T11:33:35.268Z</updated>
     
+    <content type="html"><![CDATA[<p><img src="/img/body_img/20240808.jpg" alt="2024 Best Translational Paper"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20240808.jpg&quot; alt=&quot;2024 Best Translational Paper&quot;&gt;&lt;/p&gt;
+</summary>
+      
     
     
     
