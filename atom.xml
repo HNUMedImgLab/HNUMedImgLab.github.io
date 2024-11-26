@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HNU Medical Image Laboratory</title>
+  <title>Smart Medical Imaging Laboratory</title>
   <icon>https://www.gravatar.com/avatar/304d7bf7255435c5a4d624d6336b7d97</icon>
   <subtitle>Work hard  Play hard</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -376,11 +376,11 @@
   </entry>
   
   <entry>
-    <title>HUNMedImgLab Launched at Hainan University</title>
+    <title>Smart Medical Imaging Laboratory Launched at Hainan University</title>
     <link href="http://example.com/2023/01/01/20230101/"/>
     <id>http://example.com/2023/01/01/20230101/</id>
     <published>2022-12-31T16:00:00.000Z</published>
-    <updated>2024-09-15T07:55:15.681Z</updated>
+    <updated>2024-11-26T01:08:32.361Z</updated>
     
     
     
