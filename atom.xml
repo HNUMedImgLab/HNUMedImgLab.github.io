@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-28T11:32:38.502Z</updated>
+  <updated>2024-12-01T11:32:16.599Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>孙敬张@第二届CCF数字医学大会</title>
+    <link href="http://example.com/2024/11/29/20241129/"/>
+    <id>http://example.com/2024/11/29/20241129/</id>
+    <published>2024-11-28T16:00:00.000Z</published>
+    <updated>2024-12-01T11:32:16.599Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/body_img/20241129.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20241129.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>孙敬张携科研团队@海南省医学会核医学分会2024学术年会</title>

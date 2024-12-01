@@ -1,3 +1,4 @@
+http://example.com/2024/11/29/20241129/
 http://example.com/2023/01/01/20230101/
 http://example.com/2024/08/08/20240808/
 http://example.com/2024/09/21/20240921/
