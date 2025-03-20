@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-12-30T10:27:59.983Z</updated>
+  <updated>2025-03-20T06:35:21.597Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Smart Medical Imaging 开工！！！</title>
+    <link href="http://example.com/2025/02/26/20250226/"/>
+    <id>http://example.com/2025/02/26/20250226/</id>
+    <published>2025-02-25T16:00:00.000Z</published>
+    <updated>2025-03-20T06:35:21.597Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/body_img/20250226.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20250226.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>孙敬张携科研团队@海南省核医学专科联盟启动会</title>
@@ -412,19 +433,6 @@
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20230812.jpg&quot; alt=&quot;孙敬张@2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会&quot;&gt;&lt;/p&gt;
 </summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Smart Medical Imaging Laboratory Launched at Hainan University</title>
-    <link href="http://example.com/2023/01/01/20230101/"/>
-    <id>http://example.com/2023/01/01/20230101/</id>
-    <published>2022-12-31T16:00:00.000Z</published>
-    <updated>2024-11-26T01:08:32.361Z</updated>
-    
     
     
     
