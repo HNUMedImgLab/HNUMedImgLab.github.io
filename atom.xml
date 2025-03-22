@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-20T06:35:21.597Z</updated>
+  <updated>2025-03-22T07:01:00.084Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>恭喜硕士生李春浩，中稿2025美国核医学年会SNMMI 2篇</title>
+    <link href="http://example.com/2025/03/22/20250322/"/>
+    <id>http://example.com/2025/03/22/20250322/</id>
+    <published>2025-03-21T16:00:00.000Z</published>
+    <updated>2025-03-22T07:01:00.084Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/body_img/20250322.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20250322.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Smart Medical Imaging 开工！！！</title>
@@ -410,27 +431,6 @@
       
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20230911.jpg&quot; alt=&quot;李春浩，董佳慧加入HNUMedImgLab&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>孙敬张@2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会，三亚</title>
-    <link href="http://example.com/2023/08/12/20230812/"/>
-    <id>http://example.com/2023/08/12/20230812/</id>
-    <published>2023-08-11T16:00:00.000Z</published>
-    <updated>2024-09-15T07:56:07.867Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/img/body_img/20230812.jpg" alt="孙敬张@2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body_img/20230812.jpg&quot; alt=&quot;孙敬张@2023海棠湾分子影像论坛暨海南省医学会核医学分会2023学术年会&quot;&gt;&lt;/p&gt;
 </summary>
       
     
